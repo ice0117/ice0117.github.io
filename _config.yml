@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: ice的博客 | Ice Blog
+title: ICE Blog
+SEOTitle: ice的博客 | ICE Blog
 header-img: img/post-bg-desk.jpg
 email: libingxue0117@gmail.com
 description: "Every failure is leading towards success."
-keyword: "ice, Ice Blog, ice的博客"
+keyword: "ice, ICE Blog, ice的博客"
 url: "http://ice0117.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ice0117/ice0117.github.io.git" # you code repository
